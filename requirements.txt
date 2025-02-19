@@ -1,0 +1,6 @@
+torch
+transformers[sentencepiece]
+datasets
+fastapi
+pydantic
+uvicorn
